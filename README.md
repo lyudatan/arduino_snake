@@ -15,7 +15,9 @@ Connections
 7 BL - +5V  
 8 GND - GND  
 
-Add Key -  A3  
+
+Ad Key  
+Out     -  A3  
 GND     -  GND  
 VCC     -  5V  
 
